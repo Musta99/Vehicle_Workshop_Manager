@@ -1,4 +1,3 @@
-import 'dart:html';
 
 import 'package:car_workshop/providers/home_screen_provider.dart';
 import 'package:car_workshop/services/firebase_auth.dart';
